@@ -1,0 +1,11 @@
+body {
+    background-image: url('imagen/Fondo.jpg');
+    background-size: cover; 
+    background-position: center center; 
+    background-attachment: fixed; 
+  }
+  
+  .imagen-busstra {
+    width: 634px; 
+    height: 400px; 
+  }

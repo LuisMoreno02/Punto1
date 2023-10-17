@@ -1,0 +1,10 @@
+body {
+    background-image: url('imagen/Fondo.jpg');
+    background-size: cover; /* Ajusta el tamaño de la imagen para que cubra toda la página */
+    background-position: center center; /* Centra la imagen en la página */
+    background-attachment: fixed; /* Opcional: fija la imagen de fondo */
+  }
+.imagen-busstra {
+    width: 414px; /* Ancho deseado en píxeles */
+    height: 350px; /* Alto deseado en píxeles */
+  }
